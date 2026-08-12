@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path=".github/publish.ps1" />
+  </Folder>
+  <Folder Name="/.github/workflows/">
+    <File Path=".github/workflows/publish.yml" />
+  </Folder>
+  <Folder Name="/Source/">
+    <Project Path="Source/RescuePC.Software.Caching/RescuePC.Software.Caching.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="RescuePC.Software.Caching.UnitTests/RescuePC.Software.Caching.UnitTests.csproj" />
+  </Folder>
+</Solution>
